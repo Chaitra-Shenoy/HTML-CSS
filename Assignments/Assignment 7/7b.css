@@ -1,0 +1,7 @@
+.ex-2 {
+    width: 200px;
+    height: 200px;
+    border: 2px solid red;
+    object-fit: contain;
+    object-position: center;
+}
