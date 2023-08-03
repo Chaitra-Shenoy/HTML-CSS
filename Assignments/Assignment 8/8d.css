@@ -1,0 +1,29 @@
+input {
+    border: 1px rgb(157, 157, 157) solid;
+    border-radius: 3px;
+    font-size: 12px;
+    padding-top : 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.email {
+    display: block;
+    width: 270px;
+}
+
+.name {
+    width: 126px;
+}
+.signup {
+    width: 285px;
+    background-color: rgb(59, 143, 212);
+    padding-top : 6px;
+    padding-bottom: 6px;
+    text-align: center;
+    border: none;
+    color: white;
+    border-radius: 6px;
+}
