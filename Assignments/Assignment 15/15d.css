@@ -1,0 +1,30 @@
+.close-icon {
+    background-color: rgb(0,1,1);
+    position: absolute;
+    top: -8px;
+    left: -8px;
+    border-radius: 20px;
+    color: white;
+    padding : 6px 10px 6px 10px;
+    font-family: Arial;
+    font-size: 14px;
+}
+
+.video-square {
+    background-color: gray;
+    width: 300px;
+    height: 200px;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+}
+
+.time {
+    background-color: black;
+    color: white;
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+    padding: 4px 5px 4px 5px;
+    border-radius: 2px;
+}
